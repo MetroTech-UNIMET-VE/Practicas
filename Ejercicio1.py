@@ -1,7 +1,7 @@
 def solve (N, workload):
     final_cont = 0
     cont =0 
-    for i, number in enumerate(workload)
+    for i, number in enumerate(workload):
         if number > 6:
             cont+=1
         else:
